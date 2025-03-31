@@ -14,7 +14,7 @@ To install the Robotic Hand Library, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/robotic_hand_library.git
+   git clone https://github.com/Jaydev56/robotic_hand_PNT.git
    cd robotic_hand_library
    ```
 
